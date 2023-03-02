@@ -7,7 +7,8 @@ table caption{
     font-size: 2em;
 }
 
-table td, table th{
+table td, 
+table th{
     border: 1px solid #000000;
     text-align: center;
 }
